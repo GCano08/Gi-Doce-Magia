@@ -12,34 +12,14 @@
 ## 📌 Funcionalidades
 
 - **Design Responsivo**: Adaptado para dispositivos móveis, tablets e desktops.
-- **Carousel de Produtos**: Apresentação dos principais produtos em destaque.
+- **Carrossel de Produtos**: Apresentação dos principais produtos em destaque.
 - **Seção de Produtos e Promoções**: Exibição de produtos populares e ofertas especiais.
 - **Footer Personalizado**: Informações de contato e links para redes sociais.
-- **Navegação Intuitiva**: Transições suaves entre seções para uma experiência agradável.
+- **Verificação administrativa**: Verifica e autentica permissões de administrador.
 
 ## 🎯 Objetivo do Projeto
 
 Este projeto visa fortalecer a presença digital da **Gi Doce Magia** ao fornecer uma plataforma de apresentação dos produtos da loja de forma atrativa e acessível, facilitando a comunicação com os clientes.
-
-## 🚀 Como Baixar e Executar o Projeto
-
-Para rodar o projeto localmente, siga os passos abaixo:
-
-# 1. Clone o Repositório: Baixe o projeto em sua máquina.
-git clone https://github.com/GCano08/gi-doce-magia.git
-
-# 2. Acesse o Diretório do Projeto: Navegue até a pasta onde o projeto foi clonado.
-cd gi-doce-magia
-
-# 3. Execute o Projeto: Abra o arquivo index.html em qualquer navegador para visualizar o site.
-# (No Windows, você pode abrir com o comando abaixo ou clicar duas vezes no arquivo index.html)
-start index.html
-
-# (No Mac, use este comando para abrir o arquivo no navegador padrão)
-open index.html
-
-# (No Linux, use este comando para abrir o arquivo no navegador padrão)
-xdg-open index.html
 
 ## 💡 Melhorias Futuras
 
